@@ -10,6 +10,8 @@ Each should have a border, but with rounded
  barely rounded borders, but the next one could 
  be almost circular in shape)*/
 
+
+
 h2 {
 	color: brown;
 
@@ -22,6 +24,10 @@ body {
 	flex: ;
 
 }
+
+
+/*------ARTICLES--------------------*/
+
 
  #sourdough {
  	background-color: tomato;
