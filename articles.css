@@ -22,8 +22,8 @@ body {
  	background-color: tomato;
  	font-family: Helvetica, sans-serif;
  	font-size: 1.25em;
- 	color: teal;
- 	line-height: 1.25em;
+ 	color: ivory;
+ 	line-height: 1em;
  	padding: 0.5em;
  	border: solid 0.2em pink;
  }
@@ -33,7 +33,7 @@ body {
  	font-family: "Trebuchet MS", sans-serif;
  	font-size: 3em;
  	color: salmon;
- 	line-height: 1.75em;
+ 	line-height: 1.25em;
  	padding: 1em;
  	border: dotted 0.5em black;
  }
@@ -43,8 +43,8 @@ body {
  	font-family: "Times New Roman", sans-serif;
  	font-size: 3em;
  	color: brown;
- 	line-height: 3.5em;
- 	padding: 4em;
+ 	line-height: 0.5em;
+ 	padding: 2em;
  	border: solid 0.25em yellow;
  }
 
@@ -53,7 +53,7 @@ body {
  	font-family: Georgia, sans-serif;
  	font-size: 2.5em;
  	color: white;
- 	line-height: 4em;
+ 	line-height: 1.5em;
  	padding: 3.5em;
  	border: dotted 0.75em green;
  }
