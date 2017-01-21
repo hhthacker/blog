@@ -14,6 +14,8 @@ Each should have a border, but with rounded
 
 h2 {
 	color: brown;
+	font-weight: 900;
+	font-family: helvetica, sans-serif;
 
 }
 
