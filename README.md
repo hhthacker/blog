@@ -9,6 +9,7 @@ A one page personal blog filled with bread thoughts.
 - The page has a header with title and footer with copyright notice.
 - Each article has a header with title and footer with author and publication date.
 - There is at least one section in each article.
+
 #### Styling
 - For each article on the blog:
 	- A different background color.
